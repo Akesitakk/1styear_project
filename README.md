@@ -1,0 +1,3 @@
+Developed a line-following robot using PID control and STM32 microcontroller, integrating infrared sensors for precise navigation. This project applied advanced control algorithms to ensure efficient and accurate movement along a predefined path. Additionally, contributed to the mechanical design and programming of a manual robot equipped with a gripper and projectile launcher, implementing physics and programming knowledge to design and test its functionalities. Both projects involved collaboration, design optimization, and practical applications of embedded systems and robotics.
+
+Done by NATCHA, TIPOKE, Varis Saligupta, Akesit Akkharsaksiri, Krittin Sakharin
